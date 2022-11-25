@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #011627;
+  color: #607B96;
+  font-family: 'Fira Code', monospace;
+}
+
+
+.myTitle {
+  font-size: 62px;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.myImg {
+  width: 250px;
+  padding-top: 30px;
+}
